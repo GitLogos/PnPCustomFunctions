@@ -1,4 +1,4 @@
-############# Credits to the PnP project for such an amazing tool #######
+############# Credits to the PnP project for such an amazing tool ####### https://pnp.github.io/powershell/
 
 The aim of this project is to create a "Swiss Army Knife" of commonly used functions with the PnP module for Powershell. At the moment it's based on Powershell 7 and PnP.Powershell 2.3.0 and only includes functions for common Sharepoint management.
 
